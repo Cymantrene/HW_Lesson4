@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730819913 source:e:\program_c_prata\hw_embeded\lesson4\hw1\hw1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<inttypes.h>
+
